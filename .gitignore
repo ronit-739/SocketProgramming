@@ -1,0 +1,22 @@
+
+# Compiled object files
+*.o
+
+# Compiled libraries
+*.so
+*.a
+
+# Build directories
+build/
+bin/
+
+# Compiled Linux executables
+/AdressConversion
+/client
+/littleEndian
+/networkToAddress
+/server
+
+# Temporary editor files
+*.swp
+*.save
