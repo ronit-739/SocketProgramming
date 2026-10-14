@@ -16,6 +16,8 @@ bin/
 /littleEndian
 /networkToAddress
 /server
+/EchoClient
+/EchoServer
 
 # Temporary editor files
 *.swp
