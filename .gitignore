@@ -18,6 +18,9 @@ bin/
 /server
 /EchoClient
 /EchoServer
+/UDP_Client
+/UDP_Server
+
 
 # Temporary editor files
 *.swp
